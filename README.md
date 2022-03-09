@@ -43,6 +43,8 @@ I thought this one would be easier for me. It seemed pretty much like the other 
 
 **Well.. I was wrong!**
 
+I've done and redone before actually progressing. This happened because I was struggling with what semantic elements I was going to use but, after that [...]
+
 ### Continued development :books:
 
 -
