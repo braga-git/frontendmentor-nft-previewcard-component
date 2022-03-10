@@ -156,14 +156,14 @@ body {
                         padding-bottom: 0px;
                     } 
 
-                    .text-author > p > a {
-                        color: white;            
-                        text-decoration: none;
-                    }
-                
-                        .text-author > p > a:hover {
-                                color: hsl(178, 100%, 50%);
+                        .text-author > p > a {
+                            color: white;            
+                            text-decoration: none;
                         }
+                    
+                            .text-author > p > a:hover {
+                                    color: hsl(178, 100%, 50%);
+                            }
 
             .attribution {
                 margin-top: 10px;
